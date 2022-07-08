@@ -1,0 +1,3 @@
+"IP" CrAzY009.aternos.me
+"port"59403
+"name"faiz
